@@ -43,7 +43,7 @@
 
   <div id="tinyThumbControls" class="gallery-controls">
     {.repeated section items}
-      <span class="tiny-thumb"><img src="{assetUrl}?format=100w" height="30" /></span>
+      <span class="tiny-thumb"><img src="{assetUrl}?format=100w" height="70" /></span>
     {.end}
   </div>
 </div>
